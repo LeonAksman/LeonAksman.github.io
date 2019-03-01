@@ -1,8 +1,8 @@
 # Leon Aksman
 
-### Research Associate
-### Centre for Medical Image Computing
-### University College London
+Research Associate
+Centre for Medical Image Computing
+University College London
 
 
 ## Research
