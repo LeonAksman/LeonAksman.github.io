@@ -5,8 +5,16 @@ University College London* <br/>
 
 ## Research
 
-I'm interested in modelling the state and evolution of neurodegenerative diseases such as Alzheimer's and Parkinson's using a variety of multi-modal measures from neuroimaging, biofluids and cognitive testing. During my PhD and in my postdoc work, I have focussed on developing ways of using scarse longitudinal information to better discriminate early disease states and to understand how healthy and diseased individuals' brains change over time. 
+I'm interested in modelling the state and evolution of neurodegenerative diseases such as Alzheimer's and Parkinson's using a variety of multi-modal measures from neuroimaging, biofluids and cognitive testing. 
 
-In my PhD work, summarized in my [thesis](https://kclpure.kcl.ac.uk/portal/en/theses/longitudinal-neuroimaging-features-for-discriminating-early-neurodegeneration(ac3aefdc-0cf2-4405-9edd-69e263129bdf).html), I developed a general purpose longitudinal pattern recognition method. I used this method to better discriminate between subjects with mild cognitive impairment (MCI) and cognitively normal subjects using high-dimensional structural MRI. I also showed that the same method could be applied to better discriminate Parkinson's disease using diffusion tensor imaging (DTI). I developed a freely available MATLAB [toolbox](https://github.com/LeonAksman/lpr) for performing both (standard) cross-sectional and my proposed longitudinal classification method. 
+I work on methods that combine computational modelling, statistics and machine learning (i.e. pattern recognition) to tackle these problems. 
 
-To be continued...
+I have worked on:
+
+* Longitudinal pattern recognition and machine learning based models for disease discrimination in Alzheimer's disease ([paper]()) and Parkinson's disease ([thesis](https://kclpure.kcl.ac.uk/portal/en/theses/longitudinal-neuroimaging-features-for-discriminating-early-neurodegeneration(ac3aefdc-0cf2-4405-9edd-69e263129bdf).html)). You can find the toolbox [here](https://github.com/LeonAksman/lpr).
+
+* Bayesian multi-task learning based trajectory models to characterize the course of neurodegeneration ([paper](https://www.biorxiv.org/content/10.1101/593459v1))([abstract](https://files.aievolution.com/hbm1801/abstracts/32082/2254_Aksman.pdf)). 
+
+* Event based models of the spread of amyloid and tau throughout the brain (upcoming). 
+
+I'm also interested in making easy-to-use [tools](https://github.com/LeonAksman/vtkSnap) for visualizing results in neuroimaging. I wish I had more time for this work; I'm happy to collaborate if anyone wants to build on this project.
