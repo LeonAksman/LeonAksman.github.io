@@ -15,6 +15,6 @@ I have worked on:
 
 * Developing Bayesian multi-task learning based trajectory models to characterize the course of neurodegeneration ([paper](https://www.biorxiv.org/content/10.1101/593459v1))([abstract](https://files.aievolution.com/hbm1801/abstracts/32082/2254_Aksman.pdf)). The toolbox is [here](https://github.com/LeonAksman/bayes-mtl-traj). 
 
-* Applying event based models to stage the spread of amyloid and tau throughout the brain (upcoming). 
+* Applying event based models to stage the spread of amyloid and tau throughout the brain (<a href="page1.html">Page 2</a>). 
 
 I'm also interested in making easy-to-use [tools](https://github.com/LeonAksman/vtkSnap) for visualizing results in neuroimaging.
