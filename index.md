@@ -25,7 +25,7 @@ Since 2017 I've been a a research associate at UCL. I'm a member of the Progress
 
 ## Previous lives
 
-I spent six years in quantitative finance as a programmer/analyst/trader. Prior to that I did my Master's in Aerospace Engineering at the University of Maryland, where I developed robotic manipulator control algorithms and some motor control eletronics. Prior to *that* I did my undergraduate at Johns Hopkins University, majoring in electrical engineering.
+I spent six years in quantitative finance as a programmer/analyst/trader. Prior to that I did my Master's in Aerospace Engineering at the University of Maryland, where I developed robotic manipulator control algorithms and some motor control electronics. Prior to *that* I did my undergraduate at Johns Hopkins University, majoring in electrical engineering.
 
 
 
