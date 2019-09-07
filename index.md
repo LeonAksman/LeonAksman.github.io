@@ -21,7 +21,7 @@ I'm also interested in making easy-to-use [tools](https://github.com/LeonAksman/
 
 ## Academic bio
 
-Since 2017 I've been a research associate at UCL. I'm a member of the Progression of Neurodegenerative Disease (POND) group run by Danny Alexander and Neil Oxtoby. I'm also a member of Andre Altmann's COMBINE lab. I completed a PhD in neuroimaging at King's College London in 2017, working with Andre Marquand and Dave Lythgoe on developing machine learning based methods to discriminate early neurodegeneration. 
+I've been a postdoctoral research associate at UCL since 2017. I'm a member of the Progression of Neurodegenerative Disease (POND) group run by Danny Alexander and Neil Oxtoby, as well as Andre Altmann's COMBINE lab. Prior to UCL I completed my PhD in neuroimaging at King's College London in early 2017, where I worked with Andre Marquand and David Lythgoe on developing machine learning based methods to discriminate early neurodegeneration. 
 
 ## Previous lives
 
