@@ -7,7 +7,7 @@ University College London* <br/>
 
 I'm interested in understanding how neurodegenerative diseases such as Alzheimer's and Parkinson's progress over time. 
 
-My research involves modelling the evolution of these diseases through the combination of computational modelling, statistics and machine learning and multi-modal information from neuroimaging, biofluids and cognitive testing. 
+My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, biofluids and cognitive testing. 
 
 I have worked on:
 
