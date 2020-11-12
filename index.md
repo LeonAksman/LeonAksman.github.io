@@ -1,7 +1,7 @@
 # Leon Aksman
-*Research Associate <br/>
-Centre for Medical Image Computing <br/>
-University College London* <br/>
+*Assistant Professor of Research Neurology<br/>
+Stevens Neuroimaging and Informatics Institute<br/>
+University of Southern California* <br/>
 
 ## Research
 
@@ -10,6 +10,8 @@ I'm interested in understanding how neurodegenerative diseases such as Alzheimer
 My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, biofluids and cognitive testing. 
 
 I have worked on:
+
+* Co-developing (along with Peter Wijeratne) the [pySuStaIn](https://github.com/ucl-pond/pySuStaIn) package, a Python implementation of Alex Young's the Subtype and Stage Inference (SuStaIn) algorithm
 
 * Developing probabilistic biomarker trajectory models to characterize the course of neurodegeneration ([paper]( https://doi.org/10.1002/hbm.24682))([abstract](https://files.aievolution.com/hbm1801/abstracts/32082/2254_Aksman.pdf)). The toolbox is [here](https://github.com/LeonAksman/bayes-mtl-traj). 
 
@@ -21,11 +23,11 @@ I'm also interested in making easy-to-use [tools](https://github.com/LeonAksman/
 
 ## Academic bio
 
-I've been a postdoctoral research associate at UCL since 2017. I'm a member of the Progression of Neurodegenerative Disease (POND) group run by Danny Alexander and Neil Oxtoby, as well as Andre Altmann's COMBINE lab. Prior to UCL I completed my PhD in neuroimaging at King's College London in early 2017, where I worked with Andre Marquand and David Lythgoe on developing machine learning based methods to discriminate early neurodegeneration. 
+I've now joined USC, where I will be continuing research in disease progression modeling of neurodegenerative diseases. Previously I was a postdoctoral research associate at UCL from 2017 to 2020. I was a proud member of both the [POND](https://ucl-pond.github.io/) group run by Danny Alexander and Neil Oxtoby and the [COMBINE](http://combine-lab.science/) lab run by Andre Altmann. Prior to UCL I completed my PhD in neuroimaging at King's College London in early 2017, working with Andre Marquand and David Lythgoe on machine learning based methods that discriminate early neurodegeneration. 
 
 ## Previous lives
 
-I spent six years in quantitative finance as a programmer/analyst/trader. Prior to that I did my Master's in aerospace engineering at the University of Maryland, where I developed robotic manipulator control algorithms and some motor control electronics. Prior to *that* I did my undergraduate at Johns Hopkins University, majoring in electrical engineering.
+I spent six years in quantitative finance as a programmer/analyst/trader. Prior to that I completed a Master's in aerospace engineering at the University of Maryland, working on robotic manipulator control algorithms and some motor control electronics. Prior to *that* I studied at Johns Hopkins University, majoring in electrical engineering.
 
 
 
