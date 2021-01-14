@@ -11,7 +11,7 @@ My research involves modelling the evolution of these diseases by combining comp
 
 I have worked on:
 
-* Applying disease progression models, such as Subtype and Stage Inference (SuStaIn; see Alex Young's [paper](https://www.nature.com/articles/s41467-018-05892-0)) to model the spread of Alzheimer's pathologies within the brain. Our most recent [preprint](https://www.biorxiv.org/content/10.1101/2020.12.18.418004v1) applies SuStaIn to (in vivo) amyloid PET, tau PET, CSF and (post mortem) neuropathology based measures to show that the progression of amyloid protein and tau protein based pathologies is best described by two subtypes: an 'amyloid-first' subtype in which amyloid pathology spread throughout the brain prior to the spread of tau and a 'tau-first' subtype in which tau precedes amyloid. 
+* Applying disease progression models, such as Subtype and Stage Inference (SuStaIn; see Alex Young's [paper](https://www.nature.com/articles/s41467-018-05892-0)) to model the spread of Alzheimer's pathologies within the brain. Our most recent [preprint](https://www.biorxiv.org/content/10.1101/2020.12.18.418004v1) applies SuStaIn to (in vivo) amyloid PET, tau PET, CSF and (post mortem) neuropathology based measures to show that the progression of amyloid protein and tau protein based pathologies is best described by two subtypes. We found an 'amyloid-first' subtype in which amyloid pathology spreads throughout the brain prior to the spread of tau and a 'tau-first' subtype in which tau pathology precedes amyloid. 
 
 * Co-developing (along with Peter Wijeratne) the [pySuStaIn](https://github.com/ucl-pond/pySuStaIn) package, a Python implementation of SuStaIn.
 
