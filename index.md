@@ -1,6 +1,5 @@
 # Leon Aksman
 *Assistant Professor of Research Neurology<br/>
-Stevens Neuroimaging and Informatics Institute<br/>
 University of Southern California* <br/>
 
 ## Research
@@ -11,9 +10,9 @@ My research involves modelling the evolution of these diseases by combining comp
 
 I have worked on:
 
-* Applying disease progression models, such as Subtype and Stage Inference (SuStaIn; see Alex Young's [paper](https://www.nature.com/articles/s41467-018-05892-0)) to model the spread of Alzheimer's pathologies within the brain. Our most recent [preprint](https://www.biorxiv.org/content/10.1101/2020.12.18.418004v1) applies SuStaIn to (in vivo) amyloid PET, tau PET, CSF and (post mortem) neuropathology based measures to show that the progression of amyloid protein and tau protein based pathologies is best described by two subtypes. We found an 'amyloid-first' subtype in which amyloid pathology spreads throughout the brain prior to the spread of tau and a 'tau-first' subtype in which tau pathology precedes amyloid. 
+* Applying disease progression models, such as Subtype and Stage Inference (SuStaIn; see Alex Young's [paper](https://www.nature.com/articles/s41467-018-05892-0)) to model the spread of Alzheimer's pathologies within the brain. Our [paper]((https://pubmed.ncbi.nlm.nih.gov/37433038/)) applied SuStaIn to (in vivo) amyloid PET, tau PET and (post mortem) neuropathology based measures to show that the progression of amyloid protein and tau protein based pathologies is best described by two subtypes. We found an 'amyloid-first' subtype in which amyloid pathology spreads throughout the brain prior to the spread of tau and a 'tau-first' subtype in which tau pathology precedes amyloid. The 'amyloid-first' subtype reflects the typical course of Alzheimer's disease while the 'tau-first' subtype is heterogeneous. Tau-first can be further stratified by genetic risk of Alzheimer's disease (APOE4 carriage): those who are early tau-first with a lower genetic risk (APOE4 positive) are unlikely to accumulate amyloid and therefore probably do not belong on the Alzheimer's spectrum. Those who are early 'tau-first' with higher genetic risk (APOE4 positive) are rare but probably belong within the Alzheimer's spectrum.
 
-* Co-developing (along with Peter Wijeratne) the [pySuStaIn](https://github.com/ucl-pond/pySuStaIn) package, a Python implementation of SuStaIn.
+* Co-developing (along with Peter Wijeratne) the [pySuStaIn](https://github.com/ucl-pond/pySuStaIn) package, a Python implementation of SuStaIn. Check out our [software paper](https://pubmed.ncbi.nlm.nih.gov/34926780/).
 
 * Developing probabilistic biomarker trajectory models to characterize the course of neurodegeneration ([paper]( https://doi.org/10.1002/hbm.24682))([abstract](https://files.aievolution.com/hbm1801/abstracts/32082/2254_Aksman.pdf)). The toolbox is [here](https://github.com/LeonAksman/bayes-mtl-traj). 
 
@@ -27,7 +26,7 @@ A full list of my publications is [here](https://scholar.google.com/citations?us
 
 ## Academic bio
 
-I've recently joined the [INI](https://www.ini.usc.edu/) at USC, where I will be continuing research in disease progression modeling of neurodegenerative diseases. Previously I was a postdoctoral research associate at UCL from 2017 to 2020. I was a proud member of both the [POND](https://ucl-pond.github.io/) group run by Danny Alexander and Neil Oxtoby and the [COMBINE](http://combine-lab.science/) lab run by Andre Altmann. Prior to UCL I completed my PhD in neuroimaging at King's College London in early 2017, working with Andre Marquand and David Lythgoe on machine learning based methods that discriminate early neurodegeneration. 
+I am currently an assistant professor at USC, where I work on disease progression modeling of neurodegenerative diseases. Previously I was a postdoctoral research associate at UCL from 2017 to 2020. I was a proud member of both the [POND](https://ucl-pond.github.io/) group run by Danny Alexander and Neil Oxtoby and the [COMBINE](http://combine-lab.science/) lab run by Andre Altmann. Prior to UCL I completed my PhD in neuroimaging at King's College London in early 2017, working with Andre Marquand and David Lythgoe on machine learning based methods that discriminate early neurodegeneration. 
 
 ## Previous lives
 
