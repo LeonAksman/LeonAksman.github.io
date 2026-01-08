@@ -8,7 +8,7 @@ I'm a dementia researcher who is interested understanding how neurodegenerative 
 
 My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, cognitive testing, biofluids such as cerebrospinal fluid (CSF) and other complementary data. These days I spend a lot of time on collecting and analyzing neuroimaging data in India.
 
-Ongoing/past project I've worked on:
+Ongoing/past projects I've worked on:
 
 * I am the neuroimaging lead for [LASI-DAD](https://lasi-dad.org/). The goal of my work in this area is to collect and analyze high-quality neuroimaging data in India to understand how dementia impacts the brain in low/middle-income countries that are understudied in dementia/neuroscience research.
   
