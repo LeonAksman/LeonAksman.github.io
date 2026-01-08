@@ -6,11 +6,11 @@ University of Southern California* <br/>
 
 I'm a dementia researcher who is interested understanding how neurodegenerative diseases such as Alzheimer's and Parkinson's progress over time. 
 
-My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, cognitive testing, biofluids such as cerebrospinal fluid (CSF) and other complementary data. 
+My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, cognitive testing, biofluids such as cerebrospinal fluid (CSF) and other complementary data. These days I spend a lot of time on collecting and analyzing neuroimaging data in India.
 
 Ongoing/past project I've worked on:
 
-* I am the neuroimaging lead for [LASI-DAD](https://lasi-dad.org/). The goal of my work in this area is to collect high-quality neuroimaging data in India to understand how dementia impacts the brain in low/middle-income countries that are understudied in dementia/neuroscience research.
+* I am the neuroimaging lead for [LASI-DAD](https://lasi-dad.org/). The goal of my work in this area is to collect and analyze high-quality neuroimaging data in India to understand how dementia impacts the brain in low/middle-income countries that are understudied in dementia/neuroscience research.
   
 * Applying disease progression models, such as Subtype and Stage Inference (SuStaIn; see Alex Young's [paper](https://www.nature.com/articles/s41467-018-05892-0)) to model the spread of Alzheimer's pathologies within the brain. Our [paper](https://pubmed.ncbi.nlm.nih.gov/37433038/) applied SuStaIn to (in vivo) amyloid PET, tau PET and (post mortem) neuropathology based measures to show that the progression of amyloid protein and tau protein based pathologies is best described by two subtypes. We found an 'amyloid-first' subtype in which amyloid pathology spreads throughout the brain prior to the spread of tau and a 'tau-first' subtype in which tau pathology precedes amyloid. The 'amyloid-first' subtype reflects the typical course of Alzheimer's disease while the 'tau-first' subtype is heterogeneous. Tau-first can be further stratified by genetic risk of Alzheimer's disease (APOE4 carriage): those who are early tau-first with a lower genetic risk (APOE4 negative) are unlikely to accumulate amyloid and therefore probably do not belong on the Alzheimer's spectrum. Those who are early 'tau-first' with higher genetic risk (APOE4 positive) are rare but may belong within the Alzheimer's spectrum due to their increased rate of amyloid accumulation.
 
