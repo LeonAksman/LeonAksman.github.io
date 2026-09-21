@@ -6,7 +6,7 @@ University of Southern California* <br/>
 
 I'm interested understanding how Alzheimer's disease and related dementias progress over time. 
 
-In my research I use a variety of different types of data with a major focus on neuroimaging (MRI and PET) along with data derived from cognitive testing, dementia risk factor measures (health, lifestyle, environment) and biofluids such as blood and cerebrospinal fluid (CSF). I combine this data with computational models from both statistics and machine learning to model various aspects of dementia risk and progression. These days, I work a lot on understanding how modifiable dementia risk factors influence dementia-related neurodegenerative and cerebrovascular pathologies, particularly in understudied populations. 
+In my research I use a variety of different types of data with a major focus on collecting and analyzing neuroimaging data and combining it with cognitive testing, dementia risk factor measures (health, lifestyle, environment) and biofluids such as blood and cerebrospinal fluid (CSF). I combine this multi-modal data with computational models from both statistics and machine learning to model various aspects of dementia risk and progression. These days, I work a lot on understanding how modifiable dementia risk factors influence dementia-related neurodegenerative and cerebrovascular pathologies, particularly in understudied populations. 
 
 Ongoing/past projects I've worked on:
 
