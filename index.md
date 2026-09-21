@@ -4,9 +4,9 @@ University of Southern California* <br/>
 
 ## Research
 
-I'm a dementia researcher who is interested understanding how neurodegenerative diseases such as Alzheimer's and Parkinson's progress over time. 
+I'm interested understanding how Alzheimer's disease and related dementias progress over time. 
 
-My research involves modelling the evolution of these diseases by combining computational modelling, statistics and machine learning with data from neuroimaging, cognitive testing, biofluids such as cerebrospinal fluid (CSF) and other complementary data. These days I spend a lot of time on collecting and analyzing neuroimaging data in India.
+In my research I use a variety of different types of data with a major focus on neuroimaging (MRI and PET) along with other complimentary data derived from cognitive tests, dementia risk factors (health, lifestyle, environment) and biofluids such as blood and cerebrospinal fluid (CSF). I combine this data with computational models from both statistics and machine learning to model various aspects of dementia risk and progression. These days, I work a lot on understanding how modifiable dementia risk factors influence dementia-related neurodegenerative and cerebrovascular pathologies, particularly in understudied populations. 
 
 Ongoing/past projects I've worked on:
 
